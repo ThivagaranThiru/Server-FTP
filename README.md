@@ -63,6 +63,3 @@ Avec Filezilla Client FTP :
 
          - Lancez le code
          - Sur le même site passez directement à l'étape 14.
-	
-# Server-FTP
-# Server-FTP
