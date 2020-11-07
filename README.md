@@ -1,4 +1,4 @@
-# Programmation Réseau et Concurrente - Projet : Serveur FTP en Java
+# Server FTP
 
 FTP veut dire « File Transfert Protocol » ou Protocole de transfert de Fichier.
 
