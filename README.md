@@ -1,6 +1,6 @@
 # Server FTP
 
-Le projet consiste à réaliser en Java un Server FTP qui veut dire « File Transfert Protocol » ou Protocole de transfert de Fichier.
+Le projet consiste à réaliser en Java un Server FTP (« File Transfert Protocol » ou Protocole de transfert de Fichier).
 
 C’est donc un langage qui va permettre l’échange de fichiers entre deux ordinateurs, et plus exactement entre un serveur et un client.
 On parle alors de :
