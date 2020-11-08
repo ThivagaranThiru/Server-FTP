@@ -65,3 +65,5 @@ Allez jusqu'à l'étape 5 : http://filezilla.fr/tuto-rapide/.
 
          - Lancez le code
          - Sur le même site passez directement à l'étape 14.
+
+Technologies utilisées : Eclipse, Java, Socket
